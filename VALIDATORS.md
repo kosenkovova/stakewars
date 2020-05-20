@@ -79,3 +79,4 @@ Note for Stake Wars Ep.II: validators running the staking pool can update their 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. Validators can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create their own one
 - `Locked` means that there are no access keys allowing the contract code to be re-deployed. Even a single FullAccess permission access key will cast the locked status to "no"
+| | kosenkovova1995 | gg | @kosenkovova1995.betanet | -% | UA | | |
